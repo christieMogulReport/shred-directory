@@ -1,0 +1,16 @@
+site_name: Where to Shred Documents
+site_tagline: Free shred days, drop-off shredding, and what is safe to toss.
+site_description: "Plain-English guides to getting paper documents shredded: free community shred events, pay-by-the-pound drop-off, and what to shred versus keep, city by city."
+site_owner: Black Swan Sibyl
+language: en
+
+# Absolute site origin, no trailing slash.
+base_url: "https://shred.christiejustice.com"
+
+# Empty because the site is served from the domain root.
+base_path: ""
+
+# No affiliate links are published yet. When the first one is added, set this to a
+# disclosure sentence (for example: "Some links on this site are affiliate links. If you buy
+# through them we may earn a commission at no extra cost to you.").
+affiliate_disclosure: ""
