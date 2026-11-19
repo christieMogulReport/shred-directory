@@ -1,0 +1,249 @@
+/* Everyday Directory — mobile-first, readable, no clutter */
+
+:root {
+  --bg: #f7f5f0;
+  --fg: #1c1917;
+  --muted: #57534e;
+  --border: #d6d3d1;
+  --link: #1d4ed8;
+  --link-hover: #1e3a8a;
+  --card: #ffffff;
+  --footer-bg: #ece8e1;
+  --max: 42rem;
+  --font: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  line-height: 1.6;
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+
+.skip:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 10;
+  background: var(--card);
+  padding: 0.5rem 0.75rem;
+  color: var(--fg);
+}
+
+.wrap {
+  width: min(100% - 2rem, var(--max));
+  margin-inline: auto;
+}
+
+header.site {
+  padding: 1.25rem 0 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+header.site .site-name {
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+header.site .site-name:hover,
+header.site .site-name:focus {
+  text-decoration: underline;
+}
+
+.tagline {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+main {
+  padding: 1.75rem 0 3rem;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.25;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 1.75rem;
+  margin: 0 0 0.5rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin: 2rem 0 0.75rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem;
+}
+
+.updated {
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+a {
+  color: var(--link);
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
+.prose p {
+  margin: 0 0 1rem;
+}
+
+.prose ul,
+.prose ol {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+}
+
+.prose li {
+  margin: 0.25rem 0;
+}
+
+.prose code {
+  font-family: var(--mono);
+  font-size: 0.9em;
+  background: #eeebe6;
+  padding: 0.1em 0.35em;
+  border-radius: 0.2em;
+}
+
+ul.listings {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listing {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 1rem 1.1rem;
+  margin: 0 0 0.75rem;
+}
+
+.listing h3 {
+  margin-top: 0;
+}
+
+.listing p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.listing .meta {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.page-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+}
+
+.page-list li {
+  border-top: 1px solid var(--border);
+  padding: 1rem 0;
+}
+
+.page-list li:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+.page-list a.title {
+  font-weight: 650;
+  font-size: 1.05rem;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.page-list a.title:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+.page-list .desc {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+}
+
+.page-list .updated {
+  margin: 0.2rem 0 0;
+}
+
+.empty {
+  color: var(--muted);
+  margin: 1.5rem 0;
+}
+
+footer.site {
+  background: var(--footer-bg);
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 0 2.5rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+footer.site .disclosure {
+  margin: 0 0 0.75rem;
+}
+
+footer.site .credit {
+  margin: 0;
+}
+
+@media (min-width: 640px) {
+  html {
+    font-size: 106%;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .wrap {
+    width: min(100% - 3rem, var(--max));
+  }
+
+  header.site {
+    padding-top: 1.75rem;
+  }
+}

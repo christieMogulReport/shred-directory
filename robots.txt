@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shred.christiejustice.com/sitemap.xml
