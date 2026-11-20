@@ -43,6 +43,6 @@ Free events usually have a limit on boxes per car and a short window, so arrive 
 
 ## Before you shred
 
-Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/). Elsewhere in Oklahoma, see [document shredding in Oklahoma City](/oklahoma-city-ok-document-shredding/).
+Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/). Elsewhere in Oklahoma, see [document shredding in Oklahoma City](/oklahoma-city-ok-document-shredding/). Farther north, see [document shredding in Wichita, KS](/wichita-ks-document-shredding/).
 
 *Last checked November 18, 2026. Hours, prices, and event dates change. Please call before you go.*
