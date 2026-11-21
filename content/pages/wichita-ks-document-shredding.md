@@ -59,6 +59,6 @@ Free events usually cap the number of boxes per car and run for just a few hours
 
 ## Before you shred
 
-Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Heading south? See [document shredding in Oklahoma City](/oklahoma-city-ok-document-shredding/) and [Tulsa](/tulsa-ok-document-shredding/).
+Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Heading south? See [document shredding in Oklahoma City](/oklahoma-city-ok-document-shredding/) and [Tulsa](/tulsa-ok-document-shredding/). Heading northeast? See [document shredding in Kansas City](/kansas-city-document-shredding/).
 
 *Last checked November 19, 2026. Hours, prices, and event dates change. Please call before you go.*
