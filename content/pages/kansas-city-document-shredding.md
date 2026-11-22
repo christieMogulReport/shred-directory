@@ -2,7 +2,7 @@
 title: "Document shredding in Kansas City (MO and KS)"
 slug: kansas-city-document-shredding
 description: "Where to get paper shredded in the Kansas City metro: pay-by-the-pound drop-off at The UPS Store and FedEx Office, Shred-it's tote drop-off in Lenexa, and the free shred days run by AARP, cities, counties, and banks. Call ahead to confirm."
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 draft: false
 listings:
   - name: The UPS Store Downtown Kansas City, 905 McGee St (Pickwick Plaza, 9th & McGee)
@@ -76,6 +76,6 @@ Free events usually cap the number of boxes per car, run for just a few hours, a
 
 ## Before you shred
 
-Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Heading southwest? See [document shredding in Wichita, KS](/wichita-ks-document-shredding/), [Tulsa](/tulsa-ok-document-shredding/), and [Oklahoma City](/oklahoma-city-ok-document-shredding/).
+Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Heading southwest? See [document shredding in Wichita, KS](/wichita-ks-document-shredding/), [Tulsa](/tulsa-ok-document-shredding/), and [Oklahoma City](/oklahoma-city-ok-document-shredding/). Heading east? See [document shredding in St. Louis](/st-louis-document-shredding/).
 
-*Last checked November 20, 2026. Hours, prices, and event dates change. Please call before you go.*
+*Last checked November 21, 2026. Hours, prices, and event dates change. Please call before you go.*

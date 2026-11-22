@@ -1,14 +1,14 @@
 ---
 title: "Where to shred documents in Oklahoma City, OK"
 slug: oklahoma-city-ok-document-shredding
-description: "Where to get paper shredded in Oklahoma City and the metro: an upcoming free city event in Moore, credit union shred days, and pay-by-the-pound drop-off at The UPS Store, FedEx Office, and Staples. Call ahead to confirm."
-last_updated: 2026-11-18
+description: "Where to get paper shredded in Oklahoma City and the metro: free city, credit union, and bank shred days (Moore's fall event was November 21, 2026), and pay-by-the-pound drop-off at The UPS Store, FedEx Office, and Staples. Call ahead to confirm."
+last_updated: 2026-11-21
 draft: false
 listings:
   - name: City of Moore Fall Recycle Event, 220 N Telephone Rd, Moore
     url: http://www.cityofmooreok.gov/upcoming-events/fall-recycle-event
-    summary: "Saturday, November 21, 2026, 8 AM to noon, drive-thru paper shredding plus electronics recycling at the Moore Recycle Center. Upcoming as of November 18, 2026. The page doesn't say whether non-residents can come or how many boxes are allowed, so call 405-793-4373 to confirm."
-    category: Free event (upcoming)
+    summary: "Held Saturday, November 21, 2026, 8 AM to noon, with drive-thru paper shredding plus electronics recycling at the Moore Recycle Center. That date has passed. The city page didn't say whether non-residents could come or how many boxes were allowed; call 405-793-4373 to ask about the next one."
+    category: Free event (past)
   - name: FedEx Office, 101 N Robinson Ave (downtown)
     url: https://local.fedex.com/en-us/ok/oklahoma-city/office-4202
     summary: "Store page lists shredding services at $1.49 per pound. Phone (405) 232-8828. Other OKC FedEx Office pages listing shredding at the same price: 2601 W Memorial Rd, (405) 749-8775; 7101 Northwest Expy Ste 140, (405) 773-2000; 2205 SW 74th St, (405) 685-5464."
@@ -45,10 +45,6 @@ listings:
 
 You have two kinds of options in Oklahoma City. Stores take paper on any day they're open and charge by the pound. Free community shred days happen a few times a year, and most are hosted by credit unions and local governments.
 
-## Coming up: free shredding in Moore on November 21
-
-The City of Moore lists a Fall Recycle Event on **Saturday, November 21, 2026, from 8 AM to noon** at the Moore Recycle Center, 220 N Telephone Rd. It offers drive-thru paper shredding and electronics recycling ([City of Moore](http://www.cityofmooreok.gov/upcoming-events/fall-recycle-event)). The page doesn't list a box limit or say who can attend, so call 405-793-4373 before you go.
-
 ## When you need it done this week
 
 Pay-by-the-pound drop-off is the fastest option.
@@ -63,6 +59,7 @@ Shred Nations says that for more than about 3 boxes (roughly 90 pounds), mobile 
 
 These metro hosts held free shred days in 2026. All of their dates below have passed, so treat them as hosts to watch for 2027:
 
+- **The City of Moore** held its Fall Recycle Event on Saturday, November 21, 2026, from 8 AM to noon at the Moore Recycle Center, 220 N Telephone Rd, with drive-thru paper shredding and electronics recycling ([City of Moore](http://www.cityofmooreok.gov/upcoming-events/fall-recycle-event)). The page didn't list a box limit or say who could attend, so call 405-793-4373 to ask about the next one.
 - **Allegiance Credit Union** held four public shred days in OKC and Edmond, from 9 AM to noon ([ACU Cares](https://www.allegiancecu.org/acu-cares)).
 - **Tinker Federal Credit Union** held shred days in Midwest City, Edmond, Moore, and two OKC branches. They were open to non-members, with a limit of three boxes per car ([TFCU](https://www.tinkerfcu.org/take-advantage-of-shred-days/)).
 - **The South Oklahoma City Chamber** hosted a free drive-through shred day and medication drop-off in May 2026 at Moore Norman Technology Center's South Penn campus. It asked people to bring no more than three boxes or bags ([News9](https://www.news9.com/oklahoma-city-news/south-okc-chamber-free-shred-day-medication-drop-off)).
@@ -73,6 +70,6 @@ Free events usually limit how many boxes you can bring and only run for a few ho
 
 ## Before you shred
 
-Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/). Elsewhere in Oklahoma, see [document shredding in Tulsa](/tulsa-ok-document-shredding/). Farther north, see [document shredding in Wichita, KS](/wichita-ks-document-shredding/) and [Kansas City](/kansas-city-document-shredding/).
+Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/). Elsewhere in Oklahoma, see [document shredding in Tulsa](/tulsa-ok-document-shredding/). Farther north, see [document shredding in Wichita, KS](/wichita-ks-document-shredding/) and [Kansas City](/kansas-city-document-shredding/). Heading east? See [St. Louis](/st-louis-document-shredding/).
 
-*Last checked November 18, 2026. Hours, prices, and event dates change. Please call before you go.*
+*Last checked November 21, 2026. Hours, prices, and event dates change. Please call before you go.*
