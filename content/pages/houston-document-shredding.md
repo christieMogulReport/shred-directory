@@ -91,6 +91,6 @@ Free events usually cap the number of boxes per car, run for just a few hours, a
 
 ## Before you shred
 
-Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Heading north? See [document shredding in Dallas-Fort Worth](/dallas-fort-worth-document-shredding/), [Oklahoma City](/oklahoma-city-ok-document-shredding/), [Tulsa](/tulsa-ok-document-shredding/), and [Kansas City](/kansas-city-document-shredding/). Heading to Central Texas? See [document shredding in Austin](/austin-document-shredding/).
+Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Heading north? See [document shredding in Dallas-Fort Worth](/dallas-fort-worth-document-shredding/), [Oklahoma City](/oklahoma-city-ok-document-shredding/), [Tulsa](/tulsa-ok-document-shredding/), and [Kansas City](/kansas-city-document-shredding/). Heading to Central Texas? See [document shredding in Austin](/austin-document-shredding/) and [San Antonio](/san-antonio-document-shredding/).
 
 *Last checked November 23, 2026. Hours, prices, and event dates change. Please call before you go.*

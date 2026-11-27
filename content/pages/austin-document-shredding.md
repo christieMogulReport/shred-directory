@@ -91,6 +91,6 @@ Free events usually cap the number of boxes per car, run for just a few hours, a
 
 ## Before you shred
 
-Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Elsewhere in Texas, see [document shredding in Houston](/houston-document-shredding/) and [Dallas-Fort Worth](/dallas-fort-worth-document-shredding/).
+Read [what to shred and how long to keep records](/what-to-shred-and-how-long-to-keep-records/) and [how to shred documents for free](/how-to-shred-documents-for-free/). Elsewhere in Texas, see [document shredding in Houston](/houston-document-shredding/), [Dallas-Fort Worth](/dallas-fort-worth-document-shredding/), and [San Antonio](/san-antonio-document-shredding/).
 
 *Last checked November 25, 2026. Hours, prices, and event dates change. Please call before you go.*
